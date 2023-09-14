@@ -6,9 +6,7 @@ video {
   z-index: -1;
 }
 .hero-container {
-  background: url(/public/images/img-home.jpg) no-repeat;
-  background-position: center;
-  background-size: cover;
+  background: url(/public/images/img-home.jpg) center center/cover no-repeat;
   height: 100vh;
   width: 100%;
   display: flex;
@@ -16,7 +14,7 @@ video {
   justify-content: center;
   align-items: center;
   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
-  object-fit: contain;
+  object-fit: cover;
 }
 .hero-container > h1 {
   color: #fff;
