@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Travel-Website/static/css/main.a996c3a0.css",
+    "main.js": "/React-Travel-Website/static/js/main.7a51fc0e.js",
+    "static/media/img-2.jpg": "/React-Travel-Website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-9.jpg": "/React-Travel-Website/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/img-8.jpg": "/React-Travel-Website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/React-Travel-Website/index.html",
+    "main.a996c3a0.css.map": "/React-Travel-Website/static/css/main.a996c3a0.css.map",
+    "main.7a51fc0e.js.map": "/React-Travel-Website/static/js/main.7a51fc0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a996c3a0.css",
+    "static/js/main.7a51fc0e.js"
+  ]
+}
